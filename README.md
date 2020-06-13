@@ -9,3 +9,5 @@ A Repo for me to experiment with different technologies daily. Feel free to Fork
 ##### Day 3 - Started with TypeScript Basics
 
 ##### Day 4 - Nodejs API + TypeScript
+
+##### Day 5 - React + TypeScript
