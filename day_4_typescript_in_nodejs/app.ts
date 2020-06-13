@@ -1,6 +1,10 @@
 import express, { Request, Response, Application } from 'express';
 import fs from 'fs';
+import cors from 'cors';
+
 const app: Application = express();
+
+app.use(cors());
 
 const data: string = fs.readFileSync('./data/super_hero.json').toString();
 
